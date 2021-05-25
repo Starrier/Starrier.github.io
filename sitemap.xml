@@ -1,0 +1,1394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-stream-principle.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-thread-close.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-thread-introduce.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-thread-synchronized.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-thread-threadpool.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-thread-volatile.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-variable-parameter.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/jvm-classloader.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/jvm-gc-zgc.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/jvm-jit.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/jvm-parameter-command.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/jvm-reference-types.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/jvm-tools-introduce.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/jvm-tools-jconsole.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/jvm-tools-jmap.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/jvm-tools-jstack.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/jvm-tools-jstat.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/k8s-components.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/linux-cat.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/linux-menu.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/linux-mysql.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/linux-package.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/linux-tcp-connect-number.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/linux-top.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/middle-intruduct.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/ml-algorithm-embedding.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/ml-algorithm-gradient-boosting.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/ml-gan.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/mq-introduce.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/mq-rocket-transaction-in-action.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/mq-rocket-transaction.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/mq-zeromq-introduce.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/mybatis-actual-params-type.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/mybatis-cache.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/mybatis-pooled-data-source.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/mysql-master-slave-consistency.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/mysql-optimize-profile.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/mysql-performance-schema.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/npm-minify-html.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/pattern-design-builder.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/performance-basic-context-switch.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/performance-basic-core-processor.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/performance-interface-optimize.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/problems-cache.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/reactive-api.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/reactive-introduce.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/reactive-reduction.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/reactor-mono.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/redis-cluster.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/redis-hyperloglog.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/redis-lua.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/redis-quicklist.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/redis-sds.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/rsocket-introduce.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/rxJava-disposable.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/rxjava-introduce.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/security-password.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/servlet-annotation-postconstruct.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/sit-optimize-applicable-device.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/sit-optimize-html.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/sit-optimize-referrer.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/site-introduce.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/site-static-seo.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/spring-cloud-hystrix-hystrixcommand.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/spring-cloud-hystrix-principle.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/spring-mvc-principle.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/test-mockito-exception.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/test-mockito-method.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/test-mockito-private.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/test-mockito-static.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/tools-idea-plugins-jrebel.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/utils-git-cherry-pick.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/utils-git-commit-author.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/utils-git-commit-refactor.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/utils-git-commit-revert.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/utils-git-gitkeep.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/utils-git-reflog.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/utils-gradle-provided.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/utils-java-compress.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/utils-lombok-annotation-value.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/utils-lombok-annotations.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/utils-maven-gpg.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/utils-maven-jar-pub-center.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/utils-maven-mvn-dependency-tree.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/utils-maven-pom-classifier.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/utils-websit-op.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/actor-introduce.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/ai-activation-function.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/ai-common-vocabulary.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/ai-supervised-learning.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/ai-svm.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/ai-target-function.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/annotation-shellmethod.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/books-gitbook-developer.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/books-webpack.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/ci-travis.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/commons-utils-guava-multiset.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/datastruct-fst.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/datastruct-spatial-index-geohash.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/datastruct-spatial-index-quad-tree.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/datastruct-spatial-index-r-tree.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/datastruct-spatial-index.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/datastruct-tire.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/design-pattern-bridge-pattern.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/distribute-2pc.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/distribute-3pc.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/distribute-cap.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/distribute-load-balance.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/distribute-rpc-serialization.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/distribute-rpc.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/docker-layered-storage.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/dp-back-propagation.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/dp-forward-propagation.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/dp-introduce.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/env-install-docker.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/env-install-git.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/env-install-gitlab.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/env-install-java-centos.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/env-install-jenkins.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/env-install-kafka.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/env-install-ngnix.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/env-install-postgresql.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/git-checkout.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/git-conf-repo.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/git-delete-branch.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/git-rebase.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/git-rest.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/git-stash.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/git-workflow.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/github-repo-transfer.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/grayscale-publishing.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/hexo-analyse-baidu.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/hexo-calendar.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/hexo-code-hightlight.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/hexo-commands.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/hexo-gulp.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/hexo-seo.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/hexo-ssr.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/hexo-start.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/high-performance-bloomfilter.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/high-performance-interface-equivalence.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/important-dong-task.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-basic-collection-arraylist.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-basic-collection-linked-blocking-queue.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-basic-collection-set.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-basic-condition.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-basic-initialize-time.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-basic-static.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-basic-string.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-basic-uuid.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-basic-variable-parameter.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-basic-volatile.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-clean-code-warnning.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-concurrent%20programming.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-dynamic-proxy.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-features-module-system.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-function-principle.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-gc-introduce.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/java-memory-module.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/index.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/utils-gava-lists.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/about/index.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/categories/index.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/friends/index.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/hexo-function.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/blogs/jvm-escape-analyse.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://starrier.starrier.org/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/Spring-Boot/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E4%B9%A6%E7%B1%8D%E8%B5%84%E6%96%99/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/DevOps/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/hexo/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/Hexo/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/Starrier/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/Java-%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/jvm/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/Linux/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E4%B8%AD%E9%97%B4%E4%BB%B6-%E6%96%87%E7%AB%A0%E7%9B%AE%E5%BD%95/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/MyBatis/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/MySQL/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/pattern-design/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E6%80%A7%E8%83%BD%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/Redis/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E4%B8%AD%E9%97%B4%E4%BB%B6/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/Spring/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starrier.starrier.org/tags/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+</urlset>
